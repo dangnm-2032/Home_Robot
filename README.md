@@ -15,4 +15,4 @@ Hardware list:
 - 1 11.1v Lithium Battery
 - L298 Motor Driver Module
 
-![](https://github.com/dangelc/Home_Robot/blob/main/robot.gif)
+![robot_demo_gif](https://github.com/dangnm-2032/Home_Robot/blob/main/robot.gif)
